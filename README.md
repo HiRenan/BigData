@@ -39,7 +39,7 @@ O projeto foi estruturado em um fluxo de trabalho completo, simulando um case re
 
 ## ⚙️ Como Executar o Notebook
 
-O projeto está contido no notebook `BigData (1).ipynb` . Para executá-lo:
+O projeto está contido no notebook `BigData.ipynb` . Para executá-lo:
 
 1.  Abra o notebook no Google Colab.
 2.  Para a etapa de obtenção de dados via API, será necessário gerar sua própria chave `kaggle.json` no site do Kaggle e fazer o upload quando o script solicitar.
